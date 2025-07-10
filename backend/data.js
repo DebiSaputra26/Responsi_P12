@@ -2,14 +2,14 @@ const educationHistory = [
   {
     id: 1,
     period: "2023 - Sekarang",
-    institution: "Universitas Amikom Yogyakarta",
-    major: "S1 Teknik Informatika",
+    institution: "UNIVERSITAS AMIKOM YOGYAKARTA",
+    major: "S1 Informatika",
   },
   {
     id: 2,
     period: "2020 - 2023",
     institution: "SMK BINA MITRA",
-    major: "TKR",
+    major: "Teknik Kendaraan Ringan",
   },
 ];
 const skills = [
@@ -59,7 +59,7 @@ const projects = [
   {
     title: "Toko Online",
     description: "Website e-commerce sederhana dengan Vue dan API backend.",
-    image: "/images/shop.png",
+    image: "/images/online.jpeg",
     tech: ["Vue", "PHP", "MySQL"],
     link: "https://tokoku.netlify.app",
   },
